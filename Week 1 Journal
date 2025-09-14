@@ -1,0 +1,31 @@
+Unity learning: 
+
+Learned how to spawn objects, interact with Unity, and the basics of creating a game.
+
+Personal game ideas:
+I want to make a game that focuses on weapon-propelled movement. 
+Inspiration will come from games like Quake, Team Fortress 2, and Assault Cube.
+Quake and TF2 Rocket jumping is cool.
+Assault Cube had a movement quirk where firing your weapon, such as a machine gun, would cause your character to move back due to the recoil.
+  Also similar to the concept of Jetpack Joyride.
+
+Leaning towards a roguelike genre, dodging enemies from off-screen as well as eliminating them. 
+  Movement techniques will be important due to the player's walk speed and enemies being faster than the player's walk speed. 
+  Enemies will have several movement patterns to keep gameplay interesting. 
+  May add weakness to enemies to create a sense of satisfaction when using movement in order to shoot weak points. 
+    Involves enemies having turn speeds.
+
+
+What tension to add to gameplay?
+  Low HP player? 
+  High risk, high-reward?
+    Stretch goals are bosses
+  Ammo as a limited source?
+  Reloading = no speed + enemies still on your screen = death?
+  Could implement "upgrade system" that resets each game (Binding of Isaac, Risk of Rain)
+
+Tension is fun, but a rollercoaster that only goes down is not the most "fun". How to create "breathing space"?
+  Slow mode ability
+  An ability that involves I-frames
+  Screen clear ultimate
+  Level progression that allows players to choose when to go to the next area
