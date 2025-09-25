@@ -1,0 +1,19 @@
+https://copilot.microsoft.com/shares/4VzQjJeC8HANweNDHHDii
+
+^^^^using Copilot to get game concept/art concepts
+
+
+
+Had an issue with the Bird on Flappy Bird making too much noise when falling down into the void. Figure out that the code in order to tell the game my bird was dead when I fell had also to include if the bird was alive. In 
+order to make it trigger only once, since the bird won't live again when it's game over. Now the audio won't play every frame when the bird is above or below a certain height and is dead. 
+
+Learned that PocketPair, the Palworld devs, actually have a "publishing" branch that helps up-and-coming game devs make new games. Similar to VideoGameDunkey's publisher, Bigmode. 
+
+
+
+For my project, I wanted to change a few things that copilot helped create. I am terrible with organization, but inserting my own ideas into what is already there is 10x easier for me.
+
+
+The game name of "blasthound" doesn't really make sense to me since I am not making a game about a dog, so I will make it reference a tank like my favorite, the M18 Hellcat.
+The unique twist is that in the beginning of the game, the crew's tracks are broken and as a last resort to a tank who wants to ram into the MC, the mc shoots the tank and actually flies from the recoil of the blast, preventing being squished.
+Theme will be referencing old wars, but nothing trying to be historically correct. I just want a great vibe. 
